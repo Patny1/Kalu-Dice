@@ -12,3 +12,4 @@ ESQUEMÁTICO
 ![Esquemático](https://github.com/user-attachments/assets/262a69ed-5eef-4f82-9496-9272bb9f3b07)
 
 
+AGRADECIMIENTO POR LA COLABORACIÓN EN EL DESARROLLO DEL PROTOTIPO A: Jordan Aguilar
