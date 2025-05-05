@@ -1,3 +1,5 @@
+//PROGRAMACIÓN DE KALÚ DICE
+// LINK: https://github.com/Patny1/Kalu-Dice/
 #define NOTE_B0 31
 
 #define NOTE_C1 33
